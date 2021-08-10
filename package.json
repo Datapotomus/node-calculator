@@ -1,0 +1,7 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Me",
+  "license": "MIT"
+}
